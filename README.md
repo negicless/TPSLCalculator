@@ -7,7 +7,8 @@ TPSL Calculator is a lightweight, modern PyQt5 desktop app designed for traders 
 Whether you swing trade, scalp, or manage multiple positions — this widget gives you instant clarity on entry, stop loss, and target levels, all visualized in color-coded profit zones.
 
 ⚙️ Features
-
+Download EXE fille from Gumroad 
+https://clesslee.gumroad.com/l/TPSLCalculator
 
 ![TPSLcalculator_Cover](https://github.com/user-attachments/assets/b5aeaf2b-d760-4e69-bd2a-0572be0c3419)
 
