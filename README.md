@@ -9,6 +9,7 @@ Whether you swing trade, scalp, or manage multiple positions — this widget giv
 ⚙️ Features
 
 
+![TPSLcalculator_Cover](https://github.com/user-attachments/assets/b5aeaf2b-d760-4e69-bd2a-0572be0c3419)
 
 
 
